@@ -1,0 +1,67 @@
+#app {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("backgroundForm2.jpg");
+    position: absolute;
+    width: 47%;
+    height: 60%;
+    margin: -5% 27%;
+    color: white;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid bisque;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#tabApp {
+    border-collapse: separate;
+    font-weight: bold;
+    margin-left: 1%;
+    margin-top: 3%;
+    font-size: 1vw;
+    width: 90%;
+    height: 90%;
+    overflow: hidden;
+}
+
+
+button, #button {
+    cursor: pointer;
+}
+
+html {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    background-image: url("backgroundBreschBrothers.jpg");
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+#img {
+    width: 20%;
+    height: 30%;
+    size: auto;
+}
+
+#panel {
+    width: 20%;
+    height: 100%;
+}
+
+#fencyForm {
+    width: 80%;
+    font-size: 1vw;
+}
+
+table {
+    padding: 1%;
+    margin-bottom: 1%;
+    margin-right: 1%;
+}
